@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/25--93a7nnruf.css","style"]
+:HL["/_next/static/chunks/0jv6nlvzz5g8x.css","style"]
 :HL["/_next/static/media/2c55a0e60120577a-s.p.0-dom-5bn10r2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/9c72aa0f40e4eef8-s.p.1y4-pdgsjb-pw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 3:[["children",{"s":{"n":"slug","t":"d","k":"44-konsolnie-nasosi","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"equipment","h":96,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":[]},"h":96,"c":"$Q2"}]]
-0:{"b":"bvQBIKg-XdZdTIy1CM0uY","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"btt5RcaJfOH-mkTMokhZ6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
