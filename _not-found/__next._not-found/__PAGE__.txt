@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:"/_next/static/chunks/3tl8fmltlzcfz.js"
+4:I[86384,["$3"],"RouteScroll"]
+5:I[39756,["$3"],"default"]
+6:I[37457,["$3"],"default"]
+7:"/_next/static/chunks/2ssvraxvy6wj1.js"
+8:I[48067,["$3","$7"],"default"]
+f:I[97367,["$3"],"OutletBoundary"]
+12:"ViewportBoundary"
+13:I[97367,["$3"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$3"],"$14"]
+:HL["/_next/static/chunks/25--93a7nnruf.css","style"]
+a:X
+d:X
+d:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"not-found","children":[["$","p",null,{"children":"404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","$L8",null,{"href":"/ru","className":"button button-primary","children":"На главную / Home"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/2ssvraxvy6wj1.js","async":true}]],["$","$Lf",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$a"}}]]
+b:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/25--93a7nnruf.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3tl8fmltlzcfz.js","async":true}]],["$","html",null,{"lang":"ru","style":{"--background":"#FFFFFF","--surface":"#F5F8FA","--foreground":"#142C3F","--muted":"#536675","--primary":"#155F8A","--primary-hover":"#104D72","--accent":"#087E9A","--border":"#DCE5EB","--on-primary":"#FFFFFF","--ring":"#087E9A","--brand-blue":"#248BC7","--brand-graphite":"#3D3E3E","--container":"1280px","--gutter-mobile":"16px","--gutter-desktop":"32px","--padding-mobile":"20px","--padding-tablet":"32px","--padding-desktop":"48px","--section-mobile":"48px","--section-tablet":"64px","--section-desktop":"96px","--h1-mobile":"36px","--h1-desktop":"64px","--h2-mobile":"28px","--h2-desktop":"44px","--h1-leading":1.08,"--h2-leading":1.15,"--body":"16px","--body-leading":1.5,"--radius-control":"4px","--radius-card":"4px","--radius-dialog":"8px","--overlay-shadow":"0 8px 24px rgb(16 42 67 / 12%)","--control-height":"48px","--duration":"160ms","--canvas":"#F8FAFC","--background-image-opacity":0.055,"--nav-radius":"18px","--nav-blur":"12px","--nav-surface":"rgb(255 255 255 / 96%)","--nav-surface-scrolled":"rgb(255 255 255 / 98%)","--nav-border":"rgb(213 226 235 / 85%)","--nav-highlight":"#EAF3F8","--nav-shadow":"0 8px 28px rgb(20 44 63 / 8%)","--space-4":"4px","--space-8":"8px","--space-12":"12px","--space-16":"16px","--space-24":"24px","--space-32":"32px","--space-48":"48px","--space-64":"64px","--space-96":"96px","--space-128":"128px"},"children":["$","body",null,{"className":"_77is5G_variable","children":[["$","$2",null,{"children":["$","$L4",null,{}]}],["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","main",null,{"className":"not-found","children":[["$","p",null,{"children":"404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","$L8",null,{"href":"/ru","className":"button button-primary","children":"На главную / Home"}]]}],[]]}]]}]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$2",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"HYDRO Engineering"}],["$","meta","1",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$a"}},"a":"$@17","u":"$@18","b":"bvQBIKg-XdZdTIy1CM0uY"}
+10:null
+a:300
+18:true
+a:C
+17:0
+c:"$undefined"
+9:"$undefined"
+16:"$undefined"
+11:"$undefined"

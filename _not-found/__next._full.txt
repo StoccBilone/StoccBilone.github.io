@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+4:"/_next/static/chunks/3tl8fmltlzcfz.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+9:"/_next/static/chunks/2ssvraxvy6wj1.js"
+a:I[48067,["$4","$9"],"default"]
+b:I[97367,["$4"],"OutletBoundary"]
+c:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[97367,["$4"],"$e"]
+11:"MetadataBoundary"
+12:I[97367,["$4"],"$11"]
+14:I[68027,["$4"],"default",1]
+:HL["/_next/static/chunks/25--93a7nnruf.css","style"]
+7:X
+8:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"not-found","children":[["$","p",null,{"children":"404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","$La",null,{"href":"/ru","className":"button button-primary","children":"На главную / Home"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/2ssvraxvy6wj1.js","async":true,"nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":false,"v":null}}]]
+3:[["children",{"s":"/_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$7"},"c":"$Q8"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/25--93a7nnruf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3tl8fmltlzcfz.js","async":true,"nonce":"$undefined"}]],"$L2"]}],"p":false,"v":null},"c":"$Q3"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$Lf",null,{"children":"$L10"}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":"$L13"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$14",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/25--93a7nnruf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"bvQBIKg-XdZdTIy1CM0uY"}
+15:I[86384,["$4"],"RouteScroll"]
+7:C
+2:["$","html",null,{"lang":"ru","style":{"--background":"#FFFFFF","--surface":"#F5F8FA","--foreground":"#142C3F","--muted":"#536675","--primary":"#155F8A","--primary-hover":"#104D72","--accent":"#087E9A","--border":"#DCE5EB","--on-primary":"#FFFFFF","--ring":"#087E9A","--brand-blue":"#248BC7","--brand-graphite":"#3D3E3E","--container":"1280px","--gutter-mobile":"16px","--gutter-desktop":"32px","--padding-mobile":"20px","--padding-tablet":"32px","--padding-desktop":"48px","--section-mobile":"48px","--section-tablet":"64px","--section-desktop":"96px","--h1-mobile":"36px","--h1-desktop":"64px","--h2-mobile":"28px","--h2-desktop":"44px","--h1-leading":1.08,"--h2-leading":1.15,"--body":"16px","--body-leading":1.5,"--radius-control":"4px","--radius-card":"4px","--radius-dialog":"8px","--overlay-shadow":"0 8px 24px rgb(16 42 67 / 12%)","--control-height":"48px","--duration":"160ms","--canvas":"#F8FAFC","--background-image-opacity":0.055,"--nav-radius":"18px","--nav-blur":"12px","--nav-surface":"rgb(255 255 255 / 96%)","--nav-surface-scrolled":"rgb(255 255 255 / 98%)","--nav-border":"rgb(213 226 235 / 85%)","--nav-highlight":"#EAF3F8","--nav-shadow":"0 8px 28px rgb(20 44 63 / 8%)","--space-4":"4px","--space-8":"8px","--space-12":"12px","--space-16":"16px","--space-24":"24px","--space-32":"32px","--space-48":"48px","--space-64":"64px","--space-96":"96px","--space-128":"128px"},"children":["$","body",null,{"className":"_77is5G_variable","children":[["$","$c",null,{"children":["$","$L15",null,{}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"not-found","children":[["$","p",null,{"children":"404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","$La",null,{"href":"/ru","className":"button button-primary","children":"На главную / Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+13:[["$","title","0",{"children":"HYDRO Engineering"}],["$","meta","1",{"name":"robots","content":"noindex, nofollow"}]]
